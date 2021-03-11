@@ -1,0 +1,38 @@
+body
+{
+  background-color: rgb(253, 227, 203);
+}
+td
+{
+ padding: 5px;
+}
+th
+{
+    padding: 10px;
+}
+table
+{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+    border-radius: 8px;
+    width: 50%;
+
+}
+.ti
+{
+    position:fixed;
+    background-color: darkcyan;
+    width: 100%;
+
+}
+.my_table
+{   
+    
+    margin: auto;
+    margin-bottom: 10px;  
+    width: fit-content;
+     border-radius: 30px;
+    padding: 20px;
+    background-color: rgb(180, 235, 235);
+}
